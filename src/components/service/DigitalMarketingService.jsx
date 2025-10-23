@@ -88,10 +88,10 @@ const DigitalMarketingService = () => {
                   Our Blockchain <br /> Solutions
                 </h3>
                 <p>
-                  We specialize in training individuals in Web Development and blockchain development, 
-                  incubating innovative projects, and conducting market research to build the 
-                  decentralized future. Our comprehensive approach covers all aspects of 
-                  blockchain technology and Web3 development.
+                  We build capacity through hands-on education in Web Development and blockchain,
+                  incubate mission-driven Web3 projects, and perform deep technical and market research.
+                  Our programs empower developers, startups, and enterprises across Ghana and international
+                  markets to build the decentralized future.
                 </p>
               </div>
             </div>

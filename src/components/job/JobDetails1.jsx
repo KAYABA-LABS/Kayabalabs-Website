@@ -42,10 +42,10 @@ const JobDetails1 = () => {
           <div className="row">
             <div className="col-xxl-9 col-xl-9 col-lg-8 col-md-8">
               <div className="job__detail-wrapper">
-                <h2 className="sec-title">Frontend Developer</h2>
+                <h2 className="sec-title">Frontend Developer (Web3)</h2>
                 <ul className="job__detail-meta">
                   <li>
-                    <span>Location</span> 2541, Austin, New York
+                    <span>Location</span> Accra, Ghana (Remote-friendly)
                   </li>
                   <li>
                     <span>Date</span> 24, June 2022
@@ -68,41 +68,13 @@ const JobDetails1 = () => {
                   </p>
                   <h2>What you will do</h2>
                   <ul>
-                    <li>
-                      Support Growth team in expanding customer base within
-                      legal industry as well as new markets
-                    </li>
-                    <li>
-                      Find prospective customer leads via LinkedIn Sales
-                      Navigator, industry directories, personal network and
-                      other sources
-                    </li>
-                    <li>
-                      Qualify prospective customer leads via email, phone, and
-                      Linkedin messaging
-                    </li>
-                    <li>
-                      Track and analyze prospective customer pipeline,
-                      presenting stats and progress to Growth team
-                    </li>
-                    <li>
-                      Identify trends in blockchain technology adoption and 
-                      Web3 ecosystem development
-                    </li>
-                    <li>
-                      Help strategize, implement, and maintain efficient 
-                      blockchain development workflows and smart contract 
-                      deployment pipelines
-                    </li>
-                    <li>
-                      Create and maintain blockchain education materials, like 
-                      Web Development tutorials and smart contract best practices
-                    </li>
-                    <li>
-                      Support special projects, like hackathon sponsorships and 
-                      blockchain community partnerships
-                    </li>
-                    <li>Contribute to blockchain developer support initiatives</li>
+                    <li>Build modern Web3 frontends with React and wallet integrations</li>
+                    <li>Collaborate with smart contract engineers on dApp UIs</li>
+                    <li>Mentor students in our training and capacity-building programs</li>
+                    <li>Support community events: meetups, hackathons, workshops</li>
+                    <li>Contribute to documentation and open-source repos</li>
+                    <li>Identify trends in blockchain tech and developer tooling</li>
+                    <li>Implement secure, accessible, and performant UI patterns</li>
                   </ul>
                   <h2>Requirements</h2>
                   <ul>

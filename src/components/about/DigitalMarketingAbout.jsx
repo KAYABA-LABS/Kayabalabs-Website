@@ -58,6 +58,11 @@ const DigitalMarketingAbout = () => {
                     building bridges to international blockchain ecosystems and empowering the next generation 
                     of decentralized technology innovators worldwide.
                   </p>
+                  <p>
+                    Our pillars: Research & Innovation, Training & Capacity Building, Project Incubation, and
+                    Community. We run community-led workshops, mentorship programs, and open-source initiatives
+                    to grow Web3 talent across Ghana and beyond.
+                  </p>
                   <div className="btn_wrapper">
                     <Link
                       className="wc-btn-light btn-hover btn-item"

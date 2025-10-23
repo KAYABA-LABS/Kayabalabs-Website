@@ -138,24 +138,23 @@ const DigitalMarketingWorkflow = () => {
                       choose us
                     </h2>
                     <h3 className="sec-title">
-                      Keword,Research Strategy, Survey, & Analytics
+                      Research, Education, Community & Innovation
                     </h3>
                     <p>
-                      Attention, we take out our round glasses and our sweater
-                      with elbow patches to go back to the origins of the user
-                      experience: the first mention of the user and its
-                      importance was born in the
+                      We focus on blockchain R&D, capacity building, and community programs.
+                      From training developers to incubating projects and publishing research,
+                      we create pathways for talent and ideas to grow in Ghana and globally.
                     </p>
                   </div>
                   <ul className="research__tools">
                     <li>
-                      <a href="#">Google</a>
+                      <a href="#">GitHub</a>
                     </li>
                     <li>
-                      <a href="#">pinterest</a>
+                      <a href="#">Ethereum</a>
                     </li>
                     <li>
-                      <a href="#">Instagram</a>
+                      <a href="#">Polygon</a>
                     </li>
                   </ul>
                 </div>
