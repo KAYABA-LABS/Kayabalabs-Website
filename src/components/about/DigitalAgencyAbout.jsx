@@ -33,7 +33,7 @@ const DigitalAgencyAbout = () => {
             <div className="col-xxl-12">
               <div className="about__title-wrapper">
                 <h3 className="sec-title title-anim">
-                  We unlock the potential of your business with creative design
+                  We empower the future of blockchain with training, research, and incubation
                 </h3>
               </div>
 
@@ -67,12 +67,10 @@ const DigitalAgencyAbout = () => {
 
                 <div className="about__content text-anim">
                   <p>
-                    From traditional PR and thought leadership campaigns to
-                    storytelling and creative social media management we’ve got
-                    you covered. Something is not your average order-taking
-                    vendor. We are proud to be the go-to partner for some of the
-                    world’s biggest agencies and brands because they trust our
-                    expertise
+                    KAYABA LABS is a research and development lab specializing in blockchain technology. 
+                    We train individuals in Solidity and blockchain development, incubate innovative projects, 
+                    and conduct market research to identify and build solutions. Our mission is to advance 
+                    the blockchain ecosystem through education, innovation, and strategic partnerships.
                   </p>
 
                   <div className="cursor-btn btn_wrapper">

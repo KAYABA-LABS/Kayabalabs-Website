@@ -86,23 +86,23 @@ const JobDetails1 = () => {
                       presenting stats and progress to Growth team
                     </li>
                     <li>
-                      Identify trends in prospective customer engagement with
-                      various outreach campaigns
+                      Identify trends in blockchain technology adoption and 
+                      Web3 ecosystem development
                     </li>
                     <li>
-                      Help strategize, implement, and maintain an efficient
-                      sales system, primarily within Hubspot Sales and Hubspot
-                      Marketing
+                      Help strategize, implement, and maintain efficient 
+                      blockchain development workflows and smart contract 
+                      deployment pipelines
                     </li>
                     <li>
-                      Create and maintain sales and marketing materials, like
-                      pricing sheets and feature highlights
+                      Create and maintain blockchain education materials, like 
+                      Solidity tutorials and smart contract best practices
                     </li>
                     <li>
-                      Support special projects, like event sponsorships and
-                      industry partnerships
+                      Support special projects, like hackathon sponsorships and 
+                      blockchain community partnerships
                     </li>
-                    <li>Contribute to customer support initiatives</li>
+                    <li>Contribute to blockchain developer support initiatives</li>
                   </ul>
                   <h2>Requirements</h2>
                   <ul>
@@ -149,8 +149,8 @@ const JobDetails1 = () => {
                       business processes.{" "}
                     </li>
                     <li>
-                      Coordinating the workflow between the UI/UX Designer, the
-                      QA, and yourself.
+                      Coordinating the workflow between the Blockchain Architect, the 
+                      Security Auditor, and yourself.
                     </li>
                     <li>Problem-solving capabilities </li>
                     <li>Age 20 to 35 years</li>

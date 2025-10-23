@@ -166,10 +166,10 @@ const DigitalMarketingWorkflow = () => {
                         <span>60%</span>
                       </div>
                       <div className="research__info">
-                        <h4 className="research__title">Strategy</h4>
+                        <h4 className="research__title">Development</h4>
                         <p>
-                          Your marketing strategy optimizing performances
-                          doesn’t have to be a guessing game.
+                          Our blockchain development strategy optimizing smart 
+                          contract performance and security is data-driven.
                         </p>
                       </div>
                     </div>
@@ -179,10 +179,10 @@ const DigitalMarketingWorkflow = () => {
                         <span>95%</span>
                       </div>
                       <div className="research__info">
-                        <h4 className="research__title">Audience</h4>
+                        <h4 className="research__title">Training</h4>
                         <p>
-                          Your marketing strategy optimizing performances
-                          doesn’t have to be a guessing game.
+                          Our comprehensive education programs ensure developers 
+                          master Solidity and blockchain fundamentals.
                         </p>
                       </div>
                     </div>
@@ -192,10 +192,10 @@ const DigitalMarketingWorkflow = () => {
                         <span>70%</span>
                       </div>
                       <div className="research__info">
-                        <h4 className="research__title">Keyword</h4>
+                        <h4 className="research__title">Innovation</h4>
                         <p>
-                          Your marketing strategy optimizing performances
-                          doesn’t have to be a guessing game.
+                          Our research-driven incubation approach helps projects 
+                          identify and capitalize on Web3 opportunities.
                         </p>
                       </div>
                     </div>

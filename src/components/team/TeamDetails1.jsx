@@ -41,7 +41,7 @@ const TeamDetails1 = () => {
                   ref={charAnim2}
                 >
                   UX Researcher and Instructor, at
-                  <span> Axtra</span>
+                  <span> KAYABA LABS</span>
                 </h3>
                 <p>
                   Jassica Oliver is known for her ability to take a creative

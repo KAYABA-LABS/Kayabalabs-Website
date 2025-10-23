@@ -58,20 +58,19 @@ const DigitalAgencyHero = () => {
             <div className="col-xxl-12">
               <div className="hero__content animation__hero_one">
                 <Link href="/service">
-                  Strategy, Design, Solution Development{" "}
+                  Blockchain Training, R&D, and Incubation{" "}
                   <span>
                     <i className="fa-solid fa-arrow-right"></i>
                   </span>
                 </Link>
                 <div className="hero__title-wrapper">
                   <h1 className="hero__title" ref={heroTitle}>
-                    Digital agency studio
+                    Research & Development Lab
                   </h1>
                   <p className="hero__sub-title" ref={heroSubTitle}>
-                    With every single one of our clients, we bring forth deep
-                    passion for
-                    <span>creative problem solving</span>
-                    which is what we deliver.
+                    We train individuals in
+                    <span> Solidity and blockchain development</span>,
+                    incubate innovative projects, and research market solutions.
                   </p>
                 </div>
                 <Image
@@ -82,10 +81,10 @@ const DigitalAgencyHero = () => {
                   alt="Arrow Down Icon"
                 />
                 <div className="experience">
-                  <h2 className="title">25k+</h2>
+                  <h2 className="title">100+</h2>
                   <p>
-                    Projects completed <br />
-                    successfully
+                    Blockchain developers <br />
+                    trained successfully
                   </p>
                 </div>
               </div>

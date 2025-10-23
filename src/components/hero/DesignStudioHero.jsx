@@ -80,19 +80,19 @@ const DesignStudioHero = () => {
         <div className="hero__inner-2">
           <div className="sec-title-wrapper">
             <h2 className="sec-title-3 bg-shape">
-              We Design <br />
-              Unique
+              We Build <br />
+              Blockchain
             </h2>
             <h2 className="sec-title-3">
-              Digital <br />
-              Experience
+              Innovation <br />
+              Solutions
             </h2>
           </div>
           <div className="hero__text-2">
             <p>
-              Thinking, writing and planning with brand are just a of what we
-              do. For more than 10 years, It’s more competitive space for
-              agency.
+              Training developers, incubating projects, and conducting blockchain 
+              research for over a decade. We&apos;re creating the decentralized future 
+              through comprehensive Web3 education.
             </p>
             <div className="hero__button btn_wrapper" ref={btnWrapper}>
               <Link href="/service" className="wc-btn-pink btn-hover btn-item">

@@ -66,16 +66,16 @@ const StartupAgencyService = () => {
               <div className="service__left-6">
                 <h2 className="sec-subtile-6">Services</h2>
                 <h3 className="sec-title-6 title-anim">
-                  Our full <br /> creative services <br /> for you
+                  Our blockchain <br /> development services <br /> for you
                 </h3>
               </div>
             </div>
             <div className="col-xxl-7 col-xl-7 col-lg-6 col-md-6">
               <div className="service__right-4">
                 <p>
-                  We are constantly rethinking the future by creating the next
-                  generation of products,{" "}
-                  <span>brands and services from a hybrid perspective.</span>
+                  We empower the blockchain ecosystem by training developers, 
+                  incubating projects, and{" "}
+                  <span>researching market solutions that drive innovation.</span>
                 </p>
                 <Link className="btn-view" href="/service">
                   View All Service <i className="fa-solid fa-arrow-right"></i>
@@ -108,7 +108,7 @@ const StartupAgencyService = () => {
                           className="service__item-title"
                           href="/service-details"
                         >
-                          Brand Strategy
+                          Solidity Training
                         </Link>
                       </h4>
                     </div>
@@ -128,7 +128,7 @@ const StartupAgencyService = () => {
                           className="service__item-title"
                           href="/service-details"
                         >
-                          Development
+                          Smart Contract Development
                         </Link>
                       </h4>
                     </div>
@@ -148,7 +148,7 @@ const StartupAgencyService = () => {
                           className="service__item-title"
                           href="/service-details"
                         >
-                          UI/UX Design
+                          Project Incubation
                         </Link>
                       </h4>
                     </div>
@@ -168,7 +168,7 @@ const StartupAgencyService = () => {
                           className="service__item-title"
                           href="/service-details"
                         >
-                          Digital marketing
+                          Market Research
                         </Link>
                       </h4>
                     </div>

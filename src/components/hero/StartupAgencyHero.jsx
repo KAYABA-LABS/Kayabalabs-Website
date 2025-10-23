@@ -82,11 +82,11 @@ const StartupAgencyHero = () => {
                   alt="Arrow Icon"
                 />
                 <h1 className="hero__title-6 " ref={heroTitle}>
-                  Magical <br /> Axtra Startup Solution{" "}
+                  Blockchain <br /> R&amp;D and Training Lab{" "}
                 </h1>
                 <p ref={heroText}>
-                  Our team always reviews all previous methods with <br />{" "}
-                  models, and processes to determined
+                  We train developers in Solidity, incubate blockchain projects, <br />{" "}
+                  and research solutions for the decentralized future
                 </p>
                 <Link
                   className="btn-started btn-hover"

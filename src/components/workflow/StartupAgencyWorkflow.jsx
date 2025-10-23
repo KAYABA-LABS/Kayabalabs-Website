@@ -72,8 +72,8 @@ const StartupAgencyWorkflow = () => {
                 <h2 className="sec-subtile-6">Processing</h2>
                 <h3 className="sec-title-6 title-anim">How we work</h3>
                 <p>
-                  Adjust your design through a wide range of theme options in
-                  the <br /> development and instantly.
+                  Our collaborative approach to blockchain development <br /> 
+                  ensures success from training to deployment.
                 </p>
               </div>
             </div>
@@ -86,10 +86,10 @@ const StartupAgencyWorkflow = () => {
                   src={Thumb1}
                   alt="Work Image"
                 />
-                <h4 className="workflow__title-4">Teamwork</h4>
+                <h4 className="workflow__title-4">Education</h4>
                 <p>
-                  Modern and unique design practically point of view, it risks
-                  not meeting the huge expectations
+                  Comprehensive training programs in Solidity and blockchain 
+                  development to build skilled Web3 developers
                 </p>
               </div>
             </div>
@@ -102,10 +102,10 @@ const StartupAgencyWorkflow = () => {
                   src={Thumb2}
                   alt="Work Image"
                 />
-                <h4 className="workflow__title-4">Networking</h4>
+                <h4 className="workflow__title-4">Development</h4>
                 <p>
-                  Using year-over-year design and latest techs, we will ensure
-                  that your new website will be visible
+                  Expert smart contract development and DApp creation 
+                  using cutting-edge blockchain technologies
                 </p>
               </div>
             </div>
@@ -118,10 +118,10 @@ const StartupAgencyWorkflow = () => {
                   src={Thumb3}
                   alt="Work Image"
                 />
-                <h4 className="workflow__title-4">Exposure</h4>
+                <h4 className="workflow__title-4">Innovation</h4>
                 <p>
-                  Brand strategy tools are made size for marketing teams taken
-                  possession of global strategy
+                  Research-driven incubation programs to support blockchain 
+                  projects from concept to global adoption
                 </p>
               </div>
             </div>

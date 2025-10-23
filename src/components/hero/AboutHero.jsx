@@ -18,8 +18,8 @@ const AboutHero = () => {
             <div className="col-xxl-12">
               <div className="hero__about-content">
                 <h1 className="hero-title animation__word_come" ref={wordAnim}>
-                  We’re a full service creative and digital agency, working
-                  globally with leargest brands.
+                  We&apos;re a blockchain research and development lab, training developers 
+                  and building the decentralized future globally.
                 </h1>
                 <div className="hero__about-info">
                   <div className="hero__about-btn">

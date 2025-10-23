@@ -55,8 +55,7 @@ const CreativeAgencyAbout = () => {
             <div className="col-xxl-12">
               <div className="sec-title-wrapper">
                 <h2 className="sec-title title-anim">
-                  We want to bring <br /> business and the digital <br /> world
-                  together
+                  We empower the future <br /> of blockchain through <br /> education and innovation
                 </h2>
               </div>
             </div>
@@ -76,16 +75,14 @@ const CreativeAgencyAbout = () => {
             <div className="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
               <div className="about__mid-7 text-anim">
                 <p>
-                  We believe that we’ve managed to achieve what we set out to
-                  do. Today, we’re proud to bring together people who share our
-                  passion for change. This is how Outcrowd began. We were just a
-                  bunch of talented Ukrainians united by a common vision:
-                  creating a synergy of business and the digital world.
+                  KAYABA LABS was born from a shared vision: empowering individuals and organizations 
+                  in the blockchain space. We bring together passionate developers, researchers, and 
+                  innovators who believe in the transformative power of decentralized technology.
                 </p>
                 <p>
-                  We were tired of stale design solutions. We felt strongly that
-                  design was more than pretty pictures: it was a powerful tool
-                  that could really transform business.
+                  Through our comprehensive Solidity training programs, project incubation initiatives, 
+                  and market research capabilities, we&apos;re building the foundation for the next generation 
+                  of blockchain solutions and leaders.
                 </p>
                 <Image
                   priority

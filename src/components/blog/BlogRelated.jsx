@@ -180,7 +180,7 @@ const BlogRelated = () => {
                     href="/blog-details"
                     className="blog__title sub-title-anim"
                   >
-                    How to bring fold to your startup company with Axtra
+                    How to bring fold to your startup company with KAYABA LABS
                   </Link>
                 </h5>
                 <Link href="/blog-details" className="blog__btn">

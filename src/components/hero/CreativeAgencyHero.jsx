@@ -126,16 +126,15 @@ const CreativeAgencyHero = () => {
                   ref={heroThumAnim}
                 >
                   <h1 className="title creative" ref={creativeSection}>
-                    Creative{" "}
+                    Blockchain{" "}
                     <span className="solution" ref={solutionSection}>
-                      Solution
+                      Innovation
                     </span>{" "}
                   </h1>
                   <p className="animate_content" ref={heroContentSection}>
                     {" "}
-                    We take a similar approach to design commercial we do
-                    impactfully approches over the flowchart of user friendly
-                    wireframe.
+                    We take a comprehensive approach to blockchain education and development, 
+                    training skilled developers and incubating projects that shape the decentralized future.
                   </p>
                   <Image
                     priority

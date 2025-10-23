@@ -129,7 +129,7 @@ const StartupAgencyTestimonial = () => {
                           Instant Support
                         </h4>
                         <p>
-                          In the next time I hire Axtra as they helping
+                          In the next time I hire KAYABA LABS as they helping
                           innovators and brands through cultural insight,
                           strategiccal vision, and innovation and look too
                           beyond.
@@ -206,7 +206,7 @@ const StartupAgencyTestimonial = () => {
                           Instant Support
                         </h4>
                         <p>
-                          In the next time I hire Axtra as they helping
+                          In the next time I hire KAYABA LABS as they helping
                           innovators and brands through cultural insight,
                           strategiccal vision, and innovation and look too
                           beyond.

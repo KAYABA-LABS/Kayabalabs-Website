@@ -52,7 +52,7 @@ const ModernAgencyHero = () => {
             className="sec-title-4 sec-title-5 animation__char_come"
             ref={charAnim}
           >
-            Design{" "}
+            Blockchain{" "}
             <Image
               priority
               width={108}
@@ -62,7 +62,7 @@ const ModernAgencyHero = () => {
             />
           </h2>
           <h2 className="sec-title-4 animation__char_come" ref={charAnim2}>
-            Development <span>Craft</span>
+            Development <span>Lab</span>
           </h2>
           <div className="scroll-wrapper">
             <div className="scroll-down">
@@ -75,9 +75,9 @@ const ModernAgencyHero = () => {
               />
             </div>
             <p className="discription hero__text-animation" ref={heroTextAnim}>
-              Static and dynamic secure code review can prevent a 0day before
-              your product is even released. We can integrate with your dev
-              environment
+              We train individuals in Solidity and smart contract development,
+              incubate blockchain projects, and conduct market research to build
+              innovative solutions for the decentralized future.
             </p>
           </div>
         </div>

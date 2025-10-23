@@ -119,7 +119,7 @@ const DigitalAgencyService = () => {
               <div className="sec-title-wrapper wrap">
                 <h2 className="sec-sub-title title-anim">service</h2>
                 <h3 className="sec-title title-anim">
-                  Solution we <br />
+                  Solutions we <br />
                   provide
                 </h3>
               </div>
@@ -127,9 +127,9 @@ const DigitalAgencyService = () => {
             <div className="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
               <div className="service__top-text text-anim">
                 <p>
-                  With every single one of our clients we bring forth a deep
-                  passion for <span>creative problem solving innovations</span>{" "}
-                  forward thinking brands boundaries
+                  With every project we bring forth a deep
+                  passion for <span>blockchain innovation</span>{" "}
+                  and building the decentralized future
                 </p>
               </div>
             </div>
@@ -244,13 +244,13 @@ const DigitalAgencyService = () => {
                       </div>
                       <div className="service__title-wrapper">
                         <h4 className="service__title">
-                          Web & Mobile Development
+                          Solidity Training & Education
                         </h4>
                       </div>
                       <div className="service__text">
                         <p>
-                          We create, products, brands, apps & websites for the
-                          companies all around the world class digital products
+                          Comprehensive training programs in Solidity and blockchain 
+                          development for individuals and teams entering Web3
                         </p>
                       </div>
                       <div className="service__link">
@@ -272,14 +272,14 @@ const DigitalAgencyService = () => {
                       </div>
                       <div className="service__title-wrapper">
                         <h4 className="service__title">
-                          Interaction <br />
-                          Design
+                          Smart Contract <br />
+                          Development
                         </h4>
                       </div>
                       <div className="service__text">
                         <p>
-                          We create, products, brands, apps & websites for the
-                          companies all around the world class digital products
+                          Expert development of secure and efficient smart contracts 
+                          for decentralized applications and blockchain platforms
                         </p>
                       </div>
                       <div className="service__link">
@@ -301,14 +301,14 @@ const DigitalAgencyService = () => {
                       </div>
                       <div className="service__title-wrapper">
                         <h4 className="service__title">
-                          Digital <br />
-                          Maketing
+                          Project <br />
+                          Incubation
                         </h4>
                       </div>
                       <div className="service__text">
                         <p>
-                          We create, products, brands, apps & websites for the
-                          companies all around the world class digital products
+                          Supporting innovative blockchain projects from concept 
+                          to launch with technical and strategic guidance
                         </p>
                       </div>
                       <div className="service__link">
@@ -330,13 +330,13 @@ const DigitalAgencyService = () => {
                       </div>
                       <div className="service__title-wrapper">
                         <h4 className="service__title">
-                          Branding and Strategy
+                          Blockchain Research & Analysis
                         </h4>
                       </div>
                       <div className="service__text">
                         <p>
-                          We create, products, brands, apps & websites for the
-                          companies all around the world class digital products
+                          Comprehensive market research and technical analysis for 
+                          blockchain solutions and emerging Web3 technologies
                         </p>
                       </div>
                       <div className="service__link">
