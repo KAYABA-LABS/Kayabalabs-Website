@@ -136,10 +136,7 @@ export default function Footer5() {
         </div>
         <div className="footer__copyright-8">
           <p>
-            © Alrights reserved by{" "}
-            <a href="https://wealcoder.com/" target="_blank">
-              Wealcoder
-            </a>
+            © 2022 - 2025 | All rights reserved by KAYABA LABS | Accra, Ghana 🇬🇭
           </p>
         </div>
       </footer>

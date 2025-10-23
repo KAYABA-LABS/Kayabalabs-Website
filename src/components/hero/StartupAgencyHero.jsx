@@ -85,7 +85,7 @@ const StartupAgencyHero = () => {
                   Blockchain <br /> R&amp;D and Training Lab{" "}
                 </h1>
                 <p ref={heroText}>
-                  We train developers in Solidity, incubate blockchain projects, <br />{" "}
+                  We train developers in Web Development, incubate blockchain projects, <br />{" "}
                   and research solutions for the decentralized future
                 </p>
                 <Link

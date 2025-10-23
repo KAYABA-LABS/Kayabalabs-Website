@@ -628,12 +628,13 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
               <h3>Get in touch</h3>
               <ul>
                 <li>
-                  <a href="tel:02094980547">+(02) - 094 980 547</a>
+                  <a href="tel:+233123456789">+233 (0) 123 - 456 - 789</a>
                 </li>
                 <li>
-                  <a href="mailto:info@extradesign.com">info@extradesign.com</a>
+                  <a href="mailto:info@kayabalabs.com">info@kayabalabs.com</a>
                 </li>
-                <li>230 Norman Street New York, QC (USA) H8R 1A1</li>
+                <li>Accra Digital Centre, Ridge, Accra, Ghana 🇬🇭</li>
+                <li>Global reach: Remote collaboration worldwide</li>
               </ul>
             </div>
             <Image

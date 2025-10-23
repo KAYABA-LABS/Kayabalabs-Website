@@ -7,8 +7,9 @@ const Blog = () => {
   return (
     <>
       <Head>
-        <title>Blog</title>
-        <meta name="description" content="Blog Description" />
+        <title>Blockchain Blog - KAYABA LABS Insights</title>
+        <meta name="description" content="Latest insights on blockchain technology, Web3 development, and cryptocurrency trends from KAYABA LABS. Expert perspectives from Ghana's leading blockchain lab." />
+        <meta name="keywords" content="blockchain blog Ghana, Web3 insights Africa, Web Development tutorials, cryptocurrency news" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>

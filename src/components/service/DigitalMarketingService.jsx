@@ -88,7 +88,7 @@ const DigitalMarketingService = () => {
                   Our Blockchain <br /> Solutions
                 </h3>
                 <p>
-                  We specialize in training individuals in Solidity and blockchain development, 
+                  We specialize in training individuals in Web Development and blockchain development, 
                   incubating innovative projects, and conducting market research to build the 
                   decentralized future. Our comprehensive approach covers all aspects of 
                   blockchain technology and Web3 development.
@@ -103,13 +103,13 @@ const DigitalMarketingService = () => {
                 <div className="service__item-3 service_animation">
                   <h3>
                     <Link href="/service-details" className="service__title-3">
-                      Solidity Training & <br />
+                      Web Development Training & <br />
                       Education
                     </Link>
                   </h3>
                   <div className="service__content-3">
                     <p>
-                      Comprehensive training programs in Solidity and blockchain development 
+                      Comprehensive training programs in Web Development and blockchain development 
                       for individuals and teams looking to enter Web3.
                     </p>
                     <ul className="">

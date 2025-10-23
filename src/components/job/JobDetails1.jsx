@@ -96,7 +96,7 @@ const JobDetails1 = () => {
                     </li>
                     <li>
                       Create and maintain blockchain education materials, like 
-                      Solidity tutorials and smart contract best practices
+                      Web Development tutorials and smart contract best practices
                     </li>
                     <li>
                       Support special projects, like hackathon sponsorships and 

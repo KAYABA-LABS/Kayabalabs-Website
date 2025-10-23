@@ -7,8 +7,9 @@ const Portfolio = () => {
   return (
     <>
       <Head>
-        <title>Portfolio</title>
-        <meta name="description" content="Portfolio Description" />
+        <title>Blockchain Portfolio - KAYABA LABS Projects</title>
+        <meta name="description" content="Explore KAYABA LABS' blockchain and Web3 projects. Smart contracts, dApps, and DeFi solutions developed in Accra, Ghana for global clients." />
+        <meta name="keywords" content="blockchain portfolio Ghana, Web3 projects Africa, smart contract development, dApp portfolio" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>

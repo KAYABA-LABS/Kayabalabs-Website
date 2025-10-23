@@ -69,7 +69,7 @@ const DigitalAgencyHero = () => {
                   </h1>
                   <p className="hero__sub-title" ref={heroSubTitle}>
                     We train individuals in
-                    <span> Solidity and blockchain development</span>,
+                    <span> Web Development and blockchain development</span>,
                     incubate innovative projects, and research market solutions.
                   </p>
                 </div>

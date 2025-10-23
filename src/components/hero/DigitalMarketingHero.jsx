@@ -85,7 +85,7 @@ const DigitalMarketingHero = () => {
                 </div>
                 <div className="hero__text-3">
                   <p className="hero__text-animation" ref={heroTextAnim}>
-                    We train individuals in Solidity and blockchain development, 
+                    We train individuals in Web Development and blockchain development, 
                     incubate innovative projects, and conduct market research to 
                     build the decentralized future
                   </p>

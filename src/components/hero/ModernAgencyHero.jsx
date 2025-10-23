@@ -75,7 +75,7 @@ const ModernAgencyHero = () => {
               />
             </div>
             <p className="discription hero__text-animation" ref={heroTextAnim}>
-              We train individuals in Solidity and smart contract development,
+              We train individuals in Web Development and smart contract development,
               incubate blockchain projects, and conduct market research to build
               innovative solutions for the decentralized future.
             </p>

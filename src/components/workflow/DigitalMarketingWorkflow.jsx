@@ -182,7 +182,7 @@ const DigitalMarketingWorkflow = () => {
                         <h4 className="research__title">Training</h4>
                         <p>
                           Our comprehensive education programs ensure developers 
-                          master Solidity and blockchain fundamentals.
+                          master Web Development and blockchain fundamentals.
                         </p>
                       </div>
                     </div>

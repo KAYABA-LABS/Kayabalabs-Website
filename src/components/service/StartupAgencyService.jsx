@@ -108,7 +108,7 @@ const StartupAgencyService = () => {
                           className="service__item-title"
                           href="/service-details"
                         >
-                          Solidity Training
+                          Web Development Training
                         </Link>
                       </h4>
                     </div>

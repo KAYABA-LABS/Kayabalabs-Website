@@ -12,8 +12,9 @@ const About = () => {
   return (
     <div>
       <Head>
-        <title>About</title>
-        <meta name="description" content="About Description" />
+        <title>About KAYABA LABS - Blockchain Innovation from Ghana</title>
+        <meta name="description" content="Learn about KAYABA LABS, Ghana's premier blockchain R&D lab. Based in Accra, we train developers, incubate Web3 projects, and serve international markets with cutting-edge blockchain solutions." />
+        <meta name="keywords" content="blockchain Ghana, Web3 Africa, Web Development training, blockchain research, Accra tech hub" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>

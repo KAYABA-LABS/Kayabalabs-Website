@@ -8,8 +8,9 @@ const Team = () => {
   return (
     <div>
       <Head>
-        <title>Team</title>
-        <meta name="description" content="Team Description" />
+        <title>Our Team - KAYABA LABS Blockchain Experts</title>
+        <meta name="description" content="Meet the blockchain developers, smart contract engineers, and researchers at KAYABA LABS in Accra, Ghana. Building the decentralized future from West Africa." />
+        <meta name="keywords" content="blockchain team Ghana, Web3 developers Africa, Web Development engineers, blockchain researchers" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>

@@ -76,13 +76,14 @@ const CreativeAgencyAbout = () => {
               <div className="about__mid-7 text-anim">
                 <p>
                   KAYABA LABS was born from a shared vision: empowering individuals and organizations 
-                  in the blockchain space. We bring together passionate developers, researchers, and 
-                  innovators who believe in the transformative power of decentralized technology.
+                  in the blockchain space. Based in Accra, Ghana, we bring together passionate developers, 
+                  researchers, and innovators who believe in the transformative power of decentralized 
+                  technology—serving clients across Africa and international markets.
                 </p>
                 <p>
-                  Through our comprehensive Solidity training programs, project incubation initiatives, 
-                  and market research capabilities, we&apos;re building the foundation for the next generation 
-                  of blockchain solutions and leaders.
+                  Through our comprehensive Web Development training programs, project incubation initiatives, 
+                  and strategic market research capabilities, we&apos;re building the foundation for the next 
+                  generation of blockchain solutions and leaders worldwide.
                 </p>
                 <Image
                   priority

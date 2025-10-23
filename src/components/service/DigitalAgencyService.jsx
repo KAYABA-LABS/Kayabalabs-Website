@@ -244,12 +244,12 @@ const DigitalAgencyService = () => {
                       </div>
                       <div className="service__title-wrapper">
                         <h4 className="service__title">
-                          Solidity Training & Education
+                          Web Development Training & Education
                         </h4>
                       </div>
                       <div className="service__text">
                         <p>
-                          Comprehensive training programs in Solidity and blockchain 
+                          Comprehensive training programs in Web Development and blockchain 
                           development for individuals and teams entering Web3
                         </p>
                       </div>

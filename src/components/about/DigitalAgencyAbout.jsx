@@ -67,10 +67,12 @@ const DigitalAgencyAbout = () => {
 
                 <div className="about__content text-anim">
                   <p>
-                    KAYABA LABS is a research and development lab specializing in blockchain technology. 
-                    We train individuals in Solidity and blockchain development, incubate innovative projects, 
-                    and conduct market research to identify and build solutions. Our mission is to advance 
-                    the blockchain ecosystem through education, innovation, and strategic partnerships.
+                    KAYABA LABS is a blockchain research and development lab headquartered in Accra, Ghana, 
+                    with a global vision for Web3 innovation. We train individuals and organizations in Web Development 
+                    and blockchain development, incubate groundbreaking projects, and conduct strategic market 
+                    research across international markets. Operating from West Africa&apos;s emerging tech hub, 
+                    we collaborate with partners worldwide to advance the blockchain ecosystem through education, 
+                    innovation, and cutting-edge R&D.
                   </p>
 
                   <div className="cursor-btn btn_wrapper">

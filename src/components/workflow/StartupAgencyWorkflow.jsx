@@ -88,7 +88,7 @@ const StartupAgencyWorkflow = () => {
                 />
                 <h4 className="workflow__title-4">Education</h4>
                 <p>
-                  Comprehensive training programs in Solidity and blockchain 
+                  Comprehensive training programs in Web Development and blockchain 
                   development to build skilled Web3 developers
                 </p>
               </div>

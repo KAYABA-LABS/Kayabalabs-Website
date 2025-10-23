@@ -67,11 +67,11 @@ const CreativeAgencyService = () => {
                 <div className="service__item-7">
                   <Link href="/service-details">
                     <h3 className="service__title-7">
-                      Solidity <span>Training</span>
+                      Web Development <span>Training</span>
                     </h3>
                   </Link>
                   <p>
-                    Comprehensive training programs in Solidity and blockchain development 
+                    Comprehensive training programs in Web Development and blockchain development 
                     for individuals and teams entering Web3.
                   </p>
                   <ul>

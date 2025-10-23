@@ -6,8 +6,9 @@ const Contact = () => {
   return (
     <>
       <Head>
-        <title>Contact</title>
-        <meta name="description" content="Contact Description" />
+        <title>Contact KAYABA LABS - Accra, Ghana & International</title>
+        <meta name="description" content="Get in touch with KAYABA LABS. Located in Accra, Ghana with global reach. Contact us for blockchain training, smart contract development, and Web3 consulting services." />
+        <meta name="keywords" content="contact blockchain company Ghana, Accra blockchain office, Web3 consulting" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>

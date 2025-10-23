@@ -97,11 +97,11 @@ const DesignStudioService = () => {
                       alt="Service Icon"
                     />
                     <h3 className="service__title-2">
-                      Solidity <br />
+                      Web Development <br />
                       Training
                     </h3>
                     <p>
-                      Comprehensive training programs in Solidity and blockchain 
+                      Comprehensive training programs in Web Development and blockchain 
                       development for individuals and teams.
                     </p>
                     <ul>

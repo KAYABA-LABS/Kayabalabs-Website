@@ -9,8 +9,9 @@ const Career = () => {
   return (
     <div>
       <Head>
-        <title>Career</title>
-        <meta name="description" content="Career Description" />
+        <title>Careers - Join KAYABA LABS Blockchain Team</title>
+        <meta name="description" content="Join the KAYABA LABS team in Accra, Ghana. We're hiring blockchain developers, smart contract engineers, and researchers to build the decentralized future." />
+        <meta name="keywords" content="blockchain jobs Ghana, Web Development developer jobs, Web3 careers Africa, smart contract engineer" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>

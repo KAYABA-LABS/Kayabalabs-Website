@@ -39,20 +39,25 @@ const Contact1 = () => {
                   className="sub-title-anim-top animation__word_come"
                   ref={wordAnim}
                 >
-                  {"Don't be afraid man ! "}
+                  {"Let's build the "}
                   <br />
-                  say hello
+                  decentralized future
                 </h3>
                 <ul>
                   <li>
-                    <a href="tel:+(2)578365379">+(2) 578 - 365 - 379</a>
+                    <a href="tel:+233123456789">+233 (0) 123 - 456 - 789</a>
                   </li>
                   <li>
-                    <a href="mailto:hello@example.com">hello@example.com</a>
+                    <a href="mailto:info@kayabalabs.com">info@kayabalabs.com</a>
                   </li>
                   <li>
                     <span>
-                      230 Norman Street New York, <br /> QC (USA) H8R 1A1
+                      Accra Digital Centre, Ridge, <br /> Accra, Ghana 🇬🇭
+                    </span>
+                  </li>
+                  <li>
+                    <span>
+                      International: Available globally <br /> for remote collaboration
                     </span>
                   </li>
                 </ul>

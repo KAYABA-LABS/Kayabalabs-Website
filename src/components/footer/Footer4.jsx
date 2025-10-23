@@ -60,8 +60,7 @@ export default function Footer4() {
                     alt="Footer Logo"
                   />
                   <p>
-                    When do they work well, and when do they <br /> on us and
-                    finally, when do we actually need how can we avoid them.
+                    Blockchain R&D lab based in Accra, Ghana. Training developers, <br /> incubating Web3 projects, and delivering blockchain solutions globally.
                   </p>
                   <ul className="footer__social-6">
                     <li>
@@ -161,10 +160,7 @@ export default function Footer4() {
                   <div className="col-xxl-4 col-xl-4 col-lg-4 col-md-5">
                     <div className="footer__copyright-6">
                       <p>
-                        © 2022 - 2025 | Alrights reserved by <br />{" "}
-                        <a href="https://wealcoder.com/" target="_blank">
-                          Wealcoder
-                        </a>
+                        © 2022 - 2025 | All rights reserved by <br /> KAYABA LABS | Accra, Ghana 🇬🇭
                       </p>
                     </div>
                   </div>

@@ -6,7 +6,7 @@ const ModernAgencyAbout = () => {
           <div className="award__text-8">
             <a href="#">
               <h2 className="title">
-                Blockchain Training, R&D, <br /> Project Incubation{" "}
+                Blockchain Training, R&D, <br /> Project Incubation <br /> from Accra, Ghana 🇬🇭{" "}
                 <span>
                   <i className="fa-solid fa-arrow-right"></i>
                 </span>

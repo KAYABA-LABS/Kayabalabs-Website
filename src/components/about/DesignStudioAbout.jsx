@@ -49,18 +49,13 @@ const DesignStudioAbout = () => {
             <div className="col-xxl-12">
               <div className="sec-title-wrapper">
                 <h2 className="sec-title title-anim">
-                  We design and develop outstanding Digital <br /> Products and
-                  digital-first Brands.
+                  We design and develop outstanding blockchain solutions and Web3 applications from Ghana.
                 </h2>
               </div>
               <div className="sec-text-wrapper">
                 <div className="sec-text text-anim">
                   <p>
-                    We help brands stand out through powerful, elegant visual
-                    design. Our design philosophy is shaped by our experience
-                    growing up at our father’s bookbindery. Surrounded by the
-                    highest-quality materials and turn-of-the-century machines,
-                    we observed the art of true craftsmanship firsthand.
+                    Based in Accra, Ghana, KAYABA LABS specializes in blockchain research, development, and training. We help startups and enterprises harness the power of decentralized technology through Web Development training, smart contract development, and Web3 innovation. From our West African hub, we deliver world-class blockchain solutions to clients across Africa and international markets.
                   </p>
                 </div>
                 <div className="sec-btn btn_wrapper">
@@ -92,7 +87,7 @@ const DesignStudioAbout = () => {
           <div className="row">
             <div className="col-xxl-12">
               <h2 className="brand__title-2 title-anim">
-                We worked with global largest brands
+                Partnering with leading blockchain projects globally
               </h2>
               <div className="brand__list-2">
                 <div className="brand__item-2 fade_bottom">

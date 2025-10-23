@@ -14,8 +14,9 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Home - KAYABA LABS</title>
-        <meta name="description" content="KAYABA LABS: Blockchain R&D lab offering Solidity training, smart contract development, project incubation, and market research." />
+        <title>KAYABA LABS - Blockchain R&D Lab | Ghana</title>
+        <meta name="description" content="KAYABA LABS: Leading blockchain R&D lab in Accra, Ghana. We offer Web Development training, smart contract development, project incubation, and market research for international clients." />
+        <meta name="keywords" content="blockchain, Web Development, smart contracts, web3, Ghana, Accra, blockchain training, project incubation, R&D lab, cryptocurrency, DeFi, NFT" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>

@@ -50,17 +50,17 @@ export default function Footer2() {
               <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                 <div className="footer__location-2">
                   <div className="location">
-                    <h3>London</h3>
+                    <h3>Accra, Ghana 🇬🇭</h3>
                     <p>
-                      Baltia Squar, Mark Street, <br />
-                      London
+                      Accra Digital Centre, Ridge <br />
+                      Accra, Ghana
                     </p>
                   </div>
                   <div className="location">
-                    <h3>New York</h3>
+                    <h3>International</h3>
                     <p>
-                      Nenuya Centre, Elia Street <br />
-                      New York, USA
+                      Available globally for <br />
+                      remote collaboration
                     </p>
                   </div>
                 </div>
@@ -92,10 +92,7 @@ export default function Footer2() {
               <div className="col-xxl-4 col-xl-4 col-lg-4 col-md-5">
                 <div className="footer__copyright-2">
                   <p>
-                    © 2022 - 2025 | Alrights reserved by{" "}
-                    <a href="https://wealcoder.com/" target="_blank">
-                      Wealcoder
-                    </a>
+                    © 2022 - 2025 | All rights reserved by KAYABA LABS | Accra, Ghana 🇬🇭
                   </p>
                 </div>
               </div>

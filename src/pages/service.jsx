@@ -9,8 +9,9 @@ const Service = () => {
   return (
     <>
       <Head>
-        <title>Service</title>
-        <meta name="description" content="Service Description" />
+        <title>Blockchain Services - KAYABA LABS Ghana</title>
+        <meta name="description" content="Explore our blockchain services: Web Development training, smart contract development, project incubation, and market research. Based in Ghana, serving international clients." />
+        <meta name="keywords" content="blockchain services, Web Development training, smart contract development, Web3 consulting, Ghana" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>

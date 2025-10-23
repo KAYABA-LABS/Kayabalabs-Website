@@ -135,8 +135,8 @@ export default function Footer1() {
                 alt="Footer Logo"
               />
               <p>
-                When do they work well, and when do they on us and finally, when
-                do we actually need how can we avoid them.
+                Blockchain R&D lab based in Accra, Ghana. We train developers in Web Development, 
+                incubate Web3 projects, and drive blockchain innovation across international markets.
               </p>
             </div>
             <div className="footer__social-3">
@@ -169,10 +169,10 @@ export default function Footer1() {
               <div className="col-xxl-4 col-xl-4 col-lg-4">
                 <div className="footer__copyright-3">
                   <p>
-                    © 2022 - 2025 | Alrights reserved by{" "}
-                    <a href="https://wealcoder.com/" target="_blank">
-                      Wealcoder
-                    </a>
+                    © 2022 - 2025 | All rights reserved by{" "}
+                    <a href="https://github.com/KAYABA-LABS" target="_blank">
+                      KAYABA LABS
+                    </a> | Accra, Ghana 🇬🇭
                   </p>
                 </div>
               </div>
