@@ -75,19 +75,19 @@ const DigitalMarketingHero = () => {
             <div className="col-xxl-12">
               <div className="hero__inner-3">
                 <div className="sec-title-wrapper">
-                  <h2 className="sec-sub-title">Digital</h2>
+                  <h2 className="sec-sub-title">Blockchain</h2>
                   <h3 className="sec-title title-left" ref={titleLeft}>
-                    Mark
+                    R&D
                   </h3>
                   <h3 className="sec-title title-right" ref={titleRight}>
-                    eting
+                    Lab
                   </h3>
                 </div>
                 <div className="hero__text-3">
                   <p className="hero__text-animation" ref={heroTextAnim}>
-                    Static and dynamic secure code review can prevent a day
-                    before your product is even released. We can integrate with
-                    your dev environment
+                    We train individuals in Solidity and blockchain development, 
+                    incubate innovative projects, and conduct market research to 
+                    build the decentralized future
                   </p>
                 </div>
                 <div className="scroll-down">

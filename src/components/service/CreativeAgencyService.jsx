@@ -67,97 +67,97 @@ const CreativeAgencyService = () => {
                 <div className="service__item-7">
                   <Link href="/service-details">
                     <h3 className="service__title-7">
-                      Branding <span>design</span>
+                      Solidity <span>Training</span>
                     </h3>
                   </Link>
                   <p>
-                    We help brands stand out through aweful, elegant visual
-                    design. Our design mainly philosophy.
+                    Comprehensive training programs in Solidity and blockchain development 
+                    for individuals and teams entering Web3.
                   </p>
                   <ul>
-                    <li>+ Logo Design</li>
-                    <li>+ Advertisement</li>
-                    <li>+ Promotion</li>
+                    <li>+ Smart Contract Development</li>
+                    <li>+ Blockchain Fundamentals</li>
+                    <li>+ DApp Architecture</li>
                   </ul>
                 </div>
                 <div className="service__item-7">
                   <Link href="/service-details">
                     <h3 className="service__title-7">
-                      Interactive <span>Design</span>{" "}
+                      Smart Contract <span>Development</span>{" "}
                     </h3>
                   </Link>
                   <p>
-                    We help brands stand out through aweful, elegant visual
-                    design. Our design mainly philosophy.
+                    Expert development of secure and efficient smart contracts 
+                    for decentralized applications and blockchain platforms.
                   </p>
                   <ul>
-                    <li>+ Logo Design</li>
-                    <li>+ Advertisement</li>
-                    <li>+ Promotion</li>
+                    <li>+ ERC Token Standards</li>
+                    <li>+ DeFi Protocols</li>
+                    <li>+ Security Audits</li>
                   </ul>
                 </div>
                 <div className="service__item-7">
                   <Link href="/service-details">
                     <h3 className="service__title-7">
-                      Web & Mobile <span>Development</span>{" "}
+                      Project <span>Incubation</span>{" "}
                     </h3>
                   </Link>
                   <p>
-                    We help brands stand out through aweful, elegant visual
-                    design. Our design mainly philosophy.
+                    Supporting and nurturing innovative blockchain projects from 
+                    concept to launch with technical and strategic guidance.
                   </p>
                   <ul>
-                    <li>+ Logo Design</li>
-                    <li>+ Advertisement</li>
-                    <li>+ Promotion</li>
+                    <li>+ Technical Mentorship</li>
+                    <li>+ Go-to-Market Strategy</li>
+                    <li>+ Community Building</li>
                   </ul>
                 </div>
                 <div className="service__item-7">
                   <Link href="/service-details">
                     <h3 className="service__title-7">
-                      Digital <span> Marketing</span>{" "}
+                      Blockchain <span>Research</span>{" "}
                     </h3>
                   </Link>
                   <p>
-                    We help brands stand out through aweful, elegant visual
-                    design. Our design mainly philosophy.
+                    Comprehensive market research and technical analysis for 
+                    blockchain solutions and emerging Web3 technologies.
                   </p>
                   <ul>
-                    <li>+ Logo Design</li>
-                    <li>+ Advertisement</li>
-                    <li>+ Promotion</li>
+                    <li>+ Technology Assessment</li>
+                    <li>+ Market Analysis</li>
+                    <li>+ Competitive Research</li>
                   </ul>
                 </div>
                 <div className="service__item-7">
                   <Link href="/service-details">
                     <h3 className="service__title-7">
-                      Business <span>Strategy</span>
+                      DApp <span>Development</span>
                     </h3>
                   </Link>
                   <p>
-                    We help brands stand out through aweful, elegant visual
-                    design. Our design mainly philosophy.
+                    Building decentralized applications with modern frameworks 
+                    and integrating Web3 capabilities for blockchain interaction.
                   </p>
                   <ul>
-                    <li>+ Logo Design</li>
-                    <li>+ Advertisement</li>
-                    <li>+ Promotion</li>
+                    <li>+ Web3 Integration</li>
+                    <li>+ Frontend Development</li>
+                    <li>+ Wallet Integration</li>
                   </ul>
                 </div>
                 <div className="service__item-7">
                   <Link href="/service-details">
                     <h3 className="service__title-7">
-                      Illustration <span>Modelling</span>{" "}
+                      Tokenomics <span>Design</span>{" "}
                     </h3>
                   </Link>
                   <p>
-                    We help brands stand out through aweful, elegant visual
-                    design. Our design mainly philosophy.
+                    Designing sustainable token economies and governance 
+                    structures for blockchain projects and protocols.
                   </p>
                   <ul>
-                    <li>+ Logo Design</li>
-                    <li>+ Advertisement</li>
-                    <li>+ Promotion</li>
+                    <li>+ Token Distribution</li>
+                    <li>+ Governance Models</li>
+                    <li>+ Economic Modeling</li>
                   </ul>
                 </div>
               </div>

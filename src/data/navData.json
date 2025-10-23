@@ -2,7 +2,7 @@
   "nav": [
     {
       "nav_name": "Home",
-      "link": "/digital-marketing",
+  "link": "/home",
       "type": "megamenu",
       "full_width": false,
       "sub_nav": [
@@ -11,7 +11,7 @@
           "data": [
             {
               "name": "Digital Marketing",
-              "link": "/digital-marketing"
+              "link": "/home"
             },
             {
               "name": "Design Studio",

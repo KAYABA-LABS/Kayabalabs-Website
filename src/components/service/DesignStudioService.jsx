@@ -69,16 +69,16 @@ const DesignStudioService = () => {
             <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
               <div className="sec-text text-anim">
                 <p>
-                  We are passionate to create connected brands and services, and
-                  campaigns to enable stable and successful relationships
-                  between businesses and customers.
+                  We are passionate about creating blockchain solutions and 
+                  enabling successful relationships between Web3 projects and 
+                  the decentralized future.
                 </p>
               </div>
             </div>
             <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
               <div className="sec-title-wrapper">
                 <h2 className="sec-title title-anim">
-                  We grow your brands through bold service we’re providing
+                  We empower blockchain innovation through comprehensive training and development services
                 </h2>
               </div>
             </div>
@@ -97,17 +97,17 @@ const DesignStudioService = () => {
                       alt="Service Icon"
                     />
                     <h3 className="service__title-2">
-                      Branding <br />
-                      Design
+                      Solidity <br />
+                      Training
                     </h3>
                     <p>
-                      We help brands stand out through aweful, elegant visual
-                      design. Our design mainly philosophy.
+                      Comprehensive training programs in Solidity and blockchain 
+                      development for individuals and teams.
                     </p>
                     <ul>
-                      <li>+ Logo Design</li>
-                      <li>+ Advertisement</li>
-                      <li>+ Promotion</li>
+                      <li>+ Smart Contract Development</li>
+                      <li>+ Blockchain Fundamentals</li>
+                      <li>+ DApp Architecture</li>
                     </ul>
                   </div>
                 </div>
@@ -121,17 +121,17 @@ const DesignStudioService = () => {
                       alt="Service Icon"
                     />
                     <h3 className="service__title-2 ">
-                      Digital Product <br />
-                      Design
+                      Project <br />
+                      Incubation
                     </h3>
                     <p>
-                      We help brands stand out through aweful, elegant visual
-                      design. Our design mainly philosophy.
+                      Supporting innovative blockchain projects from concept 
+                      to launch with technical and strategic guidance.
                     </p>
                     <ul>
-                      <li>+ Logo Design</li>
-                      <li>+ Advertisement</li>
-                      <li>+ Promotion</li>
+                      <li>+ Technical Mentorship</li>
+                      <li>+ Go-to-Market Strategy</li>
+                      <li>+ Community Building</li>
                     </ul>
                   </div>
                 </div>
@@ -145,17 +145,17 @@ const DesignStudioService = () => {
                       alt="Service Icon"
                     />
                     <h3 className="service__title-2">
-                      Architectural <br />
-                      Design
+                      Blockchain <br />
+                      Research
                     </h3>
                     <p>
-                      We help brands stand out through aweful, elegant visual
-                      design. Our design mainly philosophy.
+                      Market research and technical analysis for blockchain 
+                      solutions and emerging Web3 technologies.
                     </p>
                     <ul>
-                      <li>+ Logo Design</li>
-                      <li>+ Advertisement</li>
-                      <li>+ Promotion</li>
+                      <li>+ Technology Assessment</li>
+                      <li>+ Market Analysis</li>
+                      <li>+ Competitive Research</li>
                     </ul>
                   </div>
                 </div>

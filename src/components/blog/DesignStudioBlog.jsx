@@ -174,7 +174,7 @@ const DesignStudioBlog = () => {
                 </h4>
                 <h5>
                   <Link href="/blog-details" className="blog__title-2">
-                    How to bring fold to your startup company with Axtra
+                    How to bring fold to your startup company with KAYABA LABS
                   </Link>
                 </h5>
               </article>

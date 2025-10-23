@@ -19,7 +19,7 @@ const Career1 = () => {
                 <Link href="/job-details">
                   <div className="job__item">
                     <p className="job__no">01</p>
-                    <h3 className="job__title">UI/UX Designer</h3>
+                    <h3 className="job__title">Blockchain Developer</h3>
                     <h4 className="job__open">(02 Open Roles)</h4>
                     <div className="job__link">
                       <span>
@@ -31,7 +31,7 @@ const Career1 = () => {
                 <Link href="/job-details">
                   <div className="job__item">
                     <p className="job__no">02</p>
-                    <h3 className="job__title">Frontend Developer</h3>
+                    <h3 className="job__title">Smart Contract Engineer</h3>
                     <h4 className="job__open">(07 Open Roles)</h4>
                     <div className="job__link">
                       <span>
@@ -43,7 +43,7 @@ const Career1 = () => {
                 <Link href="/job-details">
                   <div className="job__item">
                     <p className="job__no">03</p>
-                    <h3 className="job__title">Product Manager</h3>
+                    <h3 className="job__title">Blockchain Researcher</h3>
                     <h4 className="job__open">(15 Open Roles)</h4>
                     <div className="job__link">
                       <span>

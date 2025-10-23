@@ -85,13 +85,13 @@ const DigitalMarketingService = () => {
               <div className="sec-title-wrapper pt-130 text-anim">
                 <h2 className="sec-sub-title title-anim">Services</h2>
                 <h3 className="sec-title title-anim">
-                  Our marketing <br /> Services
+                  Our Blockchain <br /> Solutions
                 </h3>
                 <p>
-                  Consumers today rely heavily on digital means to research
-                  products. We research a brand of bldend engaging with it,
-                  according to the meanwhile, 51% of consumers say they use
-                  Google to research products before buying.
+                  We specialize in training individuals in Solidity and blockchain development, 
+                  incubating innovative projects, and conducting market research to build the 
+                  decentralized future. Our comprehensive approach covers all aspects of 
+                  blockchain technology and Web3 development.
                 </p>
               </div>
             </div>
@@ -103,19 +103,19 @@ const DigitalMarketingService = () => {
                 <div className="service__item-3 service_animation">
                   <h3>
                     <Link href="/service-details" className="service__title-3">
-                      Search Engine <br />
-                      Optimization
+                      Solidity Training & <br />
+                      Education
                     </Link>
                   </h3>
                   <div className="service__content-3">
                     <p>
-                      We help brands stand out through aweful, elegant visual
-                      design. Our design mainly philosophy.
+                      Comprehensive training programs in Solidity and blockchain development 
+                      for individuals and teams looking to enter Web3.
                     </p>
                     <ul className="">
-                      <li>+ Logo Design</li>
-                      <li>+ Advertisement</li>
-                      <li>+ Promotion</li>
+                      <li>+ Smart Contract Development</li>
+                      <li>+ Blockchain Fundamentals</li>
+                      <li>+ DApp Architecture</li>
                     </ul>
                   </div>
                   <div className="service__btn-3">
@@ -141,19 +141,19 @@ const DigitalMarketingService = () => {
                 <div className="service__item-3 service_animation">
                   <h3>
                     <Link href="/service-details" className="service__title-3 ">
-                      Email <br />
-                      Marketing
+                      Smart Contract <br />
+                      Development
                     </Link>
                   </h3>
                   <div className="service__content-3">
                     <p>
-                      We help brands stand out through aweful, elegant visual
-                      design. Our design mainly philosophy.
+                      Expert development of secure and efficient smart contracts 
+                      for decentralized applications and blockchain platforms.
                     </p>
                     <ul className="">
-                      <li>+ Logo Design</li>
-                      <li>+ Advertisement</li>
-                      <li>+ Promotion</li>
+                      <li>+ ERC Token Standards</li>
+                      <li>+ DeFi Protocols</li>
+                      <li>+ Security Audits</li>
                     </ul>
                   </div>
                   <div className="service__btn-3">
@@ -179,20 +179,19 @@ const DigitalMarketingService = () => {
                 <div className="service__item-3 service_animation">
                   <h3 className="">
                     <Link href="/service-details" className="service__title-3">
-                      COntent
-                      <br />
-                      Marketing
+                      Project<br />
+                      Incubation
                     </Link>
                   </h3>
                   <div className="service__content-3">
                     <p>
-                      We help brands stand out through aweful, elegant visual
-                      design. Our design mainly philosophy.
+                      We support and nurture innovative blockchain projects from 
+                      concept to launch, providing guidance and resources.
                     </p>
                     <ul className="">
-                      <li>+ Logo Design</li>
-                      <li>+ Advertisement</li>
-                      <li>+ Promotion</li>
+                      <li>+ Technical Mentorship</li>
+                      <li>+ Go-to-Market Strategy</li>
+                      <li>+ Community Building</li>
                     </ul>
                   </div>
                   <div className="service__btn-3">
@@ -218,20 +217,19 @@ const DigitalMarketingService = () => {
                 <div className="service__item-3 service_animation">
                   <h3 className="">
                     <Link href="/service-details" className="service__title-3">
-                      Social
-                      <br />
-                      Marketing
+                      Blockchain<br />
+                      Research & Market Analysis
                     </Link>
                   </h3>
                   <div className="service__content-3">
                     <p>
-                      We help brands stand out through aweful, elegant visual
-                      design. Our design mainly philosophy.
+                      Comprehensive market research and technical analysis for 
+                      blockchain solutions and emerging Web3 technologies.
                     </p>
                     <ul className="">
-                      <li>+ Logo Design</li>
-                      <li>+ Advertisement</li>
-                      <li>+ Promotion</li>
+                      <li>+ Technology Assessment</li>
+                      <li>+ Market Opportunity Analysis</li>
+                      <li>+ Competitive Research</li>
                     </ul>
                   </div>
                   <div className="service__btn-3">
