@@ -109,11 +109,11 @@ const Blog1 = () => {
                   <Link href="/blog">UI Design</Link> . 15 March 2019
                 </h4>
                 <h5>
-                  <Link href="/blog-details" className="blog__title">
+                  <Link href="/blog-details-dark" className="blog__title">
                     Ways of lying to yourself about your new relationship.
                   </Link>
                 </h5>
-                <Link href="/blog-details" className="blog__btn">
+                <Link href="/blog-details-dark" className="blog__btn">
                   Read More{" "}
                   <span>
                     <i className="fa-solid fa-arrow-right"></i>

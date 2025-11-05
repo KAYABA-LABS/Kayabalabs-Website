@@ -1,6 +1,6 @@
 import Link from "next/link";
-import LogoWhite2 from "../../../public/assets/imgs/logo/site-logo-white-2.png";
-import LogoBlack from "../../../public/assets/imgs/logo/logo-black.png";
+import LogoWhite2 from "../../../public/assets/imgs/logo/KayabLabs-white.png";
+import LogoBlack from "../../../public/assets/imgs/logo/KayabLabs-black.png";
 import Image from "next/image";
 
 export default function LogoItem() {
