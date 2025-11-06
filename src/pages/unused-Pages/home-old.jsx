@@ -1,0 +1,37 @@
+import Head from "next/head";
+import RootLayout from "@/components/common/layout/RootLayout";
+import DigitalMarketingHero from "@/components/hero/DigitalMarketingHero";
+import DigitalMarketingBrand from "@/components/brand/DigitalMarketingBrand";
+import DigitalMarketingAbout from "@/components/about/DigitalMarketingAbout";
+import DigitalMarketingService from "@/components/service/DigitalMarketingService";
+import DigitalMarketingProtfolio from "@/components/portfolio/DigitalMarketingProtfolio";
+import DigitalMarketingTestimonial from "@/components/testimonial/DigitalMarketingTestimonial";
+import DigitalMarketingWorkflow from "@/components/workflow/DigitalMarketingWorkflow";
+import DigitalMarketingPrice from "@/components/price/DigitalMarketingPrice";
+import DigitalMarketingBlog from "@/components/blog/DigitalMarketingBlog";
+
+export default function Home() {
+  return (
+    <div>
+      <Head>
+        <title>KAYABA LABS - Blockchain R&D Lab | Ghana</title>
+        <meta name="description" content="KAYABA LABS: Leading blockchain R&D lab in Accra, Ghana. We offer Web Development training, smart contract development, project incubation, and market research for international clients." />
+        <meta name="keywords" content="blockchain, Web Development, smart contracts, web3, Ghana, Accra, blockchain training, project incubation, R&D lab, cryptocurrency, DeFi, NFT" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+      </Head>
+      <main>
+        <RootLayout header="header1" footer="footer1">
+          <DigitalMarketingHero />
+          <DigitalMarketingBrand />
+          <DigitalMarketingAbout />
+          <DigitalMarketingService />
+          <DigitalMarketingProtfolio />
+          <DigitalMarketingTestimonial />
+          <DigitalMarketingWorkflow />
+          <DigitalMarketingPrice />
+          <DigitalMarketingBlog />
+        </RootLayout>
+      </main>
+    </div>
+  );
+}

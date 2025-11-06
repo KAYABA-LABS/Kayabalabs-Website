@@ -1,8 +1,8 @@
 import { useEffect, useRef, useState } from "react";
 import Canvas from "../canvas/Canvas";
 import Link from "next/link";
-import LogoWhite from "../../../public/assets/imgs/logo/site-logo-white.png";
-import LogoWhite2 from "../../../public/assets/imgs/logo/site-logo-white-2.png";
+import LogoWhite from "../../../public/assets/imgs/logo/KayabaLabs Logo-white.png";
+import LogoWhite2 from "../../../public/assets/imgs/logo/KayabaLabs-Black-white.png";
 import MenuWhite from "../../../public/assets/imgs/icon/menu-white.png";
 import Image from "next/image";
 
@@ -51,8 +51,8 @@ export default function Header3() {
             <Link href="/home">
               <Image
                 priority
-                width={33}
-                height={100}
+                width={28}
+                height={140}
                 className="logo-primary"
                 src={LogoWhite}
                 alt="Site Logo"
@@ -80,7 +80,7 @@ export default function Header3() {
           </div>
           <div className="header__support">
             <p>
-              Support center <a href="tel:+9587325902">+9 587 325 902</a>
+              Get In-touch <a href="">info@kayabalabs.com</a>
             </p>
           </div>
         </div>

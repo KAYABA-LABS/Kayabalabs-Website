@@ -2,7 +2,7 @@ import { faMagnifyingGlass, faXmark } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
-import logoWhite2 from "../../../public/assets/imgs/logo/KayabLabs-white.png";
+import logoWhite2 from "../../../public/assets/imgs/logo/site-logo-white-2.png";
 import Shape11 from "../../../public/assets/imgs/shape/11.png";
 import Shape12 from "../../../public/assets/imgs/shape/12.png";
 import Image from "next/image";
@@ -70,36 +70,38 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
               <h3 className="social-title">Follow Us</h3>
               <ul>
                 <li>
-                  <a href="#">X</a>
+                  <a href="#">Dribbble</a>
                 </li>
                 <li>
-                  <a href="#">LinkedIn</a>
-                </li>
-                <li>
-                  <a href="#">Facebook</a>
+                  <a href="#">Behance</a>
                 </li>
                 <li>
                   <a href="#">Instagram</a>
                 </li>
                 <li>
-                  <a href="#">Medium</a>
+                  <a href="#">Facebook</a>
                 </li>
-             
+                <li>
+                  <a href="#">Twitter</a>
+                </li>
+                <li>
+                  <a href="#">YouTube</a>
+                </li>
               </ul>
             </div>
             <div className="offcanvas__links">
               <ul>
-                {/* <li>
+                <li>
                   <Link href="/about">About</Link>
                 </li>
                 <li>
                   <Link href="/contact">contact</Link>
-                </li> */}
-                <li>
-                  <Link href="/career-dark">Career</Link>
                 </li>
                 <li>
-                  <Link href="/blog-dark">Blog</Link>
+                  <Link href="/career">Career</Link>
+                </li>
+                <li>
+                  <Link href="/blog">blog</Link>
                 </li>
               </ul>
             </div>
@@ -189,21 +191,21 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
                   </li>
                   <li>
                     <div className="header_title">
-                      <Link href={"/about-dark"}>ABOUT</Link>
+                      <Link href={"/about"}>ABOUT</Link>
                     </div>
                   </li>
                   <li>
                     <div className="header_title d-flex">
-                      <Link href={"/service-dark"}>SERVICE</Link>
-                      {/* <div className="accordian-btn">
+                      <Link href={"/service"}>SERVICE</Link>
+                      <div className="accordian-btn">
                         {accordion === 3 ? (
                           <a onClick={() => openData(0)}>-</a>
                         ) : (
                           <a onClick={() => openData(3)}>+</a>
                         )}
-                      </div> */}
+                      </div>
                     </div>
-                    {/* <ul
+                    <ul
                       className="sub_title"
                       style={
                         accordion === 3 ? { display: "" } : { display: "none" }
@@ -253,20 +255,20 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
                           service details dark
                         </Link>
                       </li>
-                    </ul> */}
+                    </ul>
                   </li>
                   <li>
                     <div className="header_title d-flex">
-                      <Link href={"/portfolio-dark"}>PORTFOLIO</Link>
-                      {/* <div className="accordian-btn">
+                      <Link href={"#"}>PAGES</Link>
+                      <div className="accordian-btn">
                         {accordion === 4 ? (
                           <a onClick={() => openData(0)}>-</a>
                         ) : (
                           <a onClick={() => openData(4)}>+</a>
                         )}
-                      </div> */}
+                      </div>
                     </div>
-                    {/* <ul
+                    <ul
                       className="sub_title"
                       style={
                         accordion === 4 ? { display: "" } : { display: "none" }
@@ -563,20 +565,20 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
                           </li>
                         </ul>
                       </li>
-                    </ul> */}
+                    </ul>
                   </li>
                   <li>
                     <div className="header_title">
-                      <Link href={"/team-dark"}>TEAM</Link>
-                      {/* <div className="accordian-btn">
+                      <Link href={"/blog"}>BLOG</Link>
+                      <div className="accordian-btn">
                         {accordion === 5 ? (
                           <a onClick={() => openData(0)}>-</a>
                         ) : (
                           <a onClick={() => openData(5)}>+</a>
                         )}
-                      </div> */}
+                      </div>
                     </div>
-                    {/* <ul
+                    <ul
                       className="sub_title"
                       style={
                         accordion === 5 ? { display: "" } : { display: "none" }
@@ -602,11 +604,11 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
                           blog details dark
                         </Link>
                       </li>
-                    </ul> */}
+                    </ul>
                   </li>
                   <li>
                     <div className="header_title">
-                      <Link href={"/contact-dark"}>CONTACT</Link>
+                      <Link href={"/contact"}>CONTACT</Link>
                     </div>
                   </li>
                 </ul>
