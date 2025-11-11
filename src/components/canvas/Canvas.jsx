@@ -111,15 +111,15 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
                   <li>
                     <div className="header_title">
                       <Link href={"/home"}>HOME</Link>
-                      <div className="accordian-btn">
+                      {/* <div className="accordian-btn">
                         {accordion === 1 ? (
                           <a onClick={() => openData(0)}>-</a>
                         ) : (
                           <a onClick={() => openData(1)}>+</a>
                         )}
-                      </div>
+                      </div> */}
                     </div>
-                    <ul
+                    {/* <ul
                       className="sub_title"
                       style={
                         accordion === 1 ? { display: "" } : { display: "none" }
@@ -185,7 +185,7 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
                           personal Portfolio dark
                         </Link>
                       </li>
-                    </ul>
+                    </ul> */}
                   </li>
                   <li>
                     <div className="header_title">

@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import Canvas from "../canvas/Canvas";
 import Link from "next/link";
 import LogoWhite from "../../../public/assets/imgs/logo/KayabaLabs Logo-white.png";
-import LogoWhite2 from "../../../public/assets/imgs/logo/KayabaLabs-Black-white.png";
+import LogoWhite2 from "../../../public/assets/imgs/logo/KayabLabs-white.png";
 import MenuWhite from "../../../public/assets/imgs/icon/menu-white.png";
 import Image from "next/image";
 
@@ -59,7 +59,7 @@ export default function Header3() {
               />
               <Image
                 priority
-                width={100}
+                width={140}
                 height={33}
                 className="logo-secondary"
                 src={LogoWhite2}
