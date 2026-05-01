@@ -3,6 +3,7 @@ import RootLayout from "@/components/common/layout/RootLayout";
 import ServiceHero from "@/components/hero/ServiceHero";
 import Service1 from "@/components/service/Service1";
 import ServiceBrand from "@/components/brand/ServiceBrand";
+import DigitalAgencyBrand from "@/components/brand/DigitalAgencyBrand";
 import DigitalAgencyCTA from "@/components/cta/DigitalAgencyCTA";
 
 const ServiceDark = () => {
@@ -17,7 +18,7 @@ const ServiceDark = () => {
         <RootLayout header="header3" footer="footer3" defaultMode="dark">
           <ServiceHero />
           <Service1 />
-          <ServiceBrand />
+          <DigitalAgencyBrand />
           <DigitalAgencyCTA />
         </RootLayout>
       </main>

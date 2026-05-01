@@ -2,8 +2,8 @@ import { useEffect } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "@/plugins";
 import Link from "next/link";
-import Portfilio11 from "../../../public/assets/imgs/portfolio/1/1.jpg";
-import Portfilio12 from "../../../public/assets/imgs/portfolio/1/2.jpg";
+import Portfilio11 from "../../../public/assets/imgs/portfolio/1/tichema.jpg";
+import Portfilio12 from "../../../public/assets/imgs/portfolio/1/myrefund.jpg";
 import Portfilio13 from "../../../public/assets/imgs/portfolio/1/3.jpg";
 import Portfilio14 from "../../../public/assets/imgs/portfolio/1/4.jpg";
 import Image from "next/image";
@@ -90,7 +90,7 @@ const DigitalAgencyPortfolio = () => {
                   />
                 </Link>
                 <div className="portfolio__info">
-                  <h3 className="portfolio__title">Arteck Lyon Conseil</h3>
+                  <h3 className="portfolio__title">Tichema</h3>
                   <p>02 May 2021</p>
                 </div>
               </div>
@@ -104,7 +104,7 @@ const DigitalAgencyPortfolio = () => {
                   />
                 </Link>
                 <div className="portfolio__info">
-                  <h3 className="portfolio__title">Arteck Lyon Conseil</h3>
+                  <h3 className="portfolio__title">MyRefund</h3>
                   <p>02 May 2021</p>
                 </div>
               </div>

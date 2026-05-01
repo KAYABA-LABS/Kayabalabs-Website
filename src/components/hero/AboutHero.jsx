@@ -54,7 +54,7 @@ const AboutHero = () => {
               </div>
             </div>
           </div>
-          <div className="row hero__about-row">
+          {/* <div className="row hero__about-row">
             <div className="col-xxl-12">
               <div className="hero__about-video">
                 <video loop muted autoPlay playsInline>
@@ -62,7 +62,7 @@ const AboutHero = () => {
                 </video>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
     </>

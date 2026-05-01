@@ -101,7 +101,10 @@ const ServiceHero = () => {
             </h1>
             <p>
               We’re designing digital experiences that enrich human lives and it
-              helps to grow your business globally trends.
+              helps to grow both your your technical ability and your business.
+
+
+              Experience a digital transformation like never before with our range of innovative solutions, designed to illuminate your brand&apos; s potential and drive your business forward in the ever-evolving digital landscape.
             </p>
           </div>
 

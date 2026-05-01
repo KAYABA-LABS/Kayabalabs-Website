@@ -21,8 +21,8 @@ const AboutDark = () => {
           <AboutHero />
           <AboutStory />
           <AboutCounter />
-          <AboutTeam />
-          <DigitalAgencyBrand />
+          {/* <AboutTeam /> */}
+          {/* <DigitalAgencyBrand /> */}
           <AboutTestimonial />
           <DigitalAgencyCTA />
         </RootLayout>
