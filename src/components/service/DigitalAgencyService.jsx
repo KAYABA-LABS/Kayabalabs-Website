@@ -301,13 +301,13 @@ const DigitalAgencyService = () => {
                       </div>
                       <div className="service__title-wrapper">
                         <h4 className="service__title">
-                          Project <br />
-                          Incubation
+                          DApp <br />
+                          Nursery
                         </h4>
                       </div>
                       <div className="service__text">
                         <p>
-                          Supporting innovative blockchain projects from concept 
+                          Supporting innovative blockchain and software projects from concept 
                           to launch with technical and strategic guidance
                         </p>
                       </div>

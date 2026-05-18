@@ -45,14 +45,14 @@ const Contact1 = () => {
                 </h3>
                 <ul>
                   <li>
-                    <a href="tel:+233123456789">+233 (0) 123 - 456 - 789</a>
+                    <a href="tel:+233595050911">+233 (0) 59 - 505 - 0911</a>
                   </li>
                   <li>
                     <a href="mailto:info@kayabalabs.com">info@kayabalabs.com</a>
                   </li>
                   <li>
                     <span>
-                      Accra Digital Centre, Ridge, <br /> Accra, Ghana 🇬🇭
+                      Greater Accra, <br /> Accra, Ghana 🇬🇭
                     </span>
                   </li>
                   <li>

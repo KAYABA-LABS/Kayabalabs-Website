@@ -70,10 +70,10 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
               <h3 className="social-title">Follow Us</h3>
               <ul>
                 <li>
-                  <a href="#">X</a>
+                  <a href="https://x.com/kayabalabshq">X</a>
                 </li>
                 <li>
-                  <a href="#">LinkedIn</a>
+                  <a href="https://www.linkedin.com/company/kayaba-labs">LinkedIn</a>
                 </li>
                 <li>
                   <a href="#">Facebook</a>
@@ -81,9 +81,9 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
                 <li>
                   <a href="#">Instagram</a>
                 </li>
-                <li>
+                {/* <li>
                   <a href="#">Medium</a>
-                </li>
+                </li> */}
              
               </ul>
             </div>
@@ -95,12 +95,12 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
                 <li>
                   <Link href="/contact">contact</Link>
                 </li> */}
-                <li>
+                {/* <li>
                   <Link href="/career-dark">Career</Link>
                 </li>
                 <li>
                   <Link href="/blog-dark">Blog</Link>
-                </li>
+                </li> */}
               </ul>
             </div>
           </div>
@@ -256,16 +256,16 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
                     </ul> */}
                   </li>
                   <li>
-                    <div className="header_title d-flex">
+                    {/* <div className="header_title d-flex">
                       <Link href={"/portfolio-dark"}>PORTFOLIO</Link>
-                      {/* <div className="accordian-btn">
+                      <div className="accordian-btn">
                         {accordion === 4 ? (
                           <a onClick={() => openData(0)}>-</a>
                         ) : (
                           <a onClick={() => openData(4)}>+</a>
                         )}
-                      </div> */}
-                    </div>
+                      </div>
+                    </div> */}
                     {/* <ul
                       className="sub_title"
                       style={
@@ -615,23 +615,23 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
           </div>
           <div className="offcanvas__right">
             <div className="offcanvas__search">
-              <form action="#">
+              {/* <form action="#">
                 <input type="text" name="search" placeholder="Search keyword" />
                 <button>
                   <FontAwesomeIcon icon={faMagnifyingGlass}></FontAwesomeIcon>
                 </button>
-              </form>
+              </form> */}
             </div>
             <div className="offcanvas__contact">
               <h3>Get in touch</h3>
               <ul>
                 <li>
-                  <a href="tel:+233123456789">+233 (0) 123 - 456 - 789</a>
+                  <a href="tel:+233123456789">+233 (0)595 - 050 - 911</a>
                 </li>
                 <li>
                   <a href="mailto:info@kayabalabs.com">info@kayabalabs.com</a>
                 </li>
-                <li>Accra Digital Centre, Ridge, Accra, Ghana 🇬🇭</li>
+                <li>Accra, Ghana 🇬🇭</li>
                 <li>Global reach: Remote collaboration worldwide</li>
               </ul>
             </div>

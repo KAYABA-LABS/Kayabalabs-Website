@@ -73,9 +73,9 @@ export default function Footer3() {
                       <li>
                         <Link href="/about">About Company</Link>
                       </li>
-                      <li>
+                      {/* <li>
                         <Link href="/portfolio">Case Study</Link>
-                      </li>
+                      </li> */}
                       <li>
                         <Link href="/career">Career</Link>
                       </li>
@@ -91,15 +91,15 @@ export default function Footer3() {
                   <div className="footer__widget-3">
                     <h2 className="footer__widget-title">Contact Us</h2>
                     <ul className="footer__contact">
-                      <li>Valentin, Street Road 24, New York, USA - 67452</li>
+                      <li>Accra, Ghana 🇬🇭</li>
                       <li>
                         <a href="tel:02574328301" className="phone">
-                          (+02) 574 - 328 - 301{" "}
+                          (+233) 59 - 505 - 0911{" "}
                         </a>
                       </li>
                       <li>
-                        <a href="mailto:info@buildyexample.com">
-                          info@buildyexample.com
+                        <a href="mailto:info@kayabalabs.com">
+                          info@kayabalabs.com
                         </a>
                       </li>
                     </ul>
@@ -118,17 +118,17 @@ export default function Footer3() {
                         <i className="fa-solid fa-arrow-right"></i>
                       </Link>
                     </div>
-                    <h3 className="contact-time">09 : 00 AM - 10 : 30 PM</h3>
-                    <h4 className="contact-day">Saturday - Thursday</h4>
+                    <h3 className="contact-time">09 : 00 AM - 5 : 30 PM</h3>
+                    <h4 className="contact-day">Monday - Friday</h4>
                   </div>
 
                   <div className="footer__copyright">
                     <p>
-                      © 2022 - 2025 | All rights reserved by KAYABA LABS | Accra, Ghana 🇬🇭
+                      © 2026 | All rights reserved by KAYABA LABS | Accra, Ghana 🇬🇭
                     </p>
                   </div>
 
-                  <div className="footer__subscribe">
+                  {/* <div className="footer__subscribe">
                     <form action="#">
                       <input
                         type="email"
@@ -139,7 +139,7 @@ export default function Footer3() {
                         <i className="fa-solid fa-paper-plane"></i>
                       </button>
                     </form>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

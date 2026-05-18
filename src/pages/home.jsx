@@ -102,7 +102,7 @@ const DigitalAgency = () => {
             modalClose2={modalClose2}
             modalClose3={modalClose3}
           /> */}
-          <DigitalAgencyBlog />
+          {/* <DigitalAgencyBlog /> */}
           <DigitalAgencyCTA />
         </RootLayout>
       </main>
