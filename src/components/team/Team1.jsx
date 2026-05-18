@@ -2,10 +2,12 @@ import { useEffect, useRef } from "react";
 import { FreeMode } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { gsap } from "gsap";
-import Team11 from "../../../public/assets/imgs/team/1.jpg";
-import Team12 from "../../../public/assets/imgs/team/2.jpg";
-import Team13 from "../../../public/assets/imgs/team/3.jpg";
-import Team14 from "../../../public/assets/imgs/team/4.jpg";
+import Team11 from "../../../public/assets/imgs/team/team1_.png";
+import Team12 from "../../../public/assets/imgs/team/team2_.jpg";
+import Team13 from "../../../public/assets/imgs/team/team5_.jpg";
+import Team14 from "../../../public/assets/imgs/team/team4_.jpg";
+import Team15 from "../../../public/assets/imgs/team/team6_.jpg";
+
 
 // Import Swiper styles
 import "swiper/css";
@@ -75,9 +77,8 @@ const Team1 = () => {
                   Talented team{" "}
                 </h2>
                 <p>
-                  We’re a diverse team that works as fancies attention to
-                  details, enjoys beers on Friday nights and aspires to design
-                  the dent in the universe.
+                  We believe that pioneers and innovators thrive in the unknown. 
+                  Our impact goes beyond our own business and that of our clients. 
                 </p>
               </div>
             </div>
@@ -106,6 +107,108 @@ const Team1 = () => {
           >
             <SwiperSlide>
               <div className="team__slide">
+                {/* <Link href="/team-details-dark">
+                </Link> */}
+                  <Image
+                    priority
+                    style={{ width: "100%", height: "auto" }}
+                    src={Team11}
+                    alt="Team Member"
+                  />
+                  <div className="team__info">
+                    <h4 className="team__member-name-6">Hussein Suhuyini</h4>
+                    <h5 className="team__member-role-6">Team Lead</h5>
+                  </div>
+              </div>
+            </SwiperSlide>
+
+            <SwiperSlide>
+              <div className="team__slide">
+                {/* <Link href="/team-details">
+                </Link> */}
+                  <Image
+                    priority
+                    style={{ width: "100%", height: "auto" }}
+                    src={Team12}
+                    alt="Team Member"
+                  />
+                  <div className="team__info">
+                    <h4 className="team__member-name-6">Bernice </h4>
+                    <h5 className="team__member-role-6">Operation And Administration</h5>
+                  </div>
+              </div>
+            </SwiperSlide>
+
+            <SwiperSlide>
+              <div className="team__slide">
+                {/* <Link href="/team-details">
+                </Link> */}
+                  <Image
+                    priority
+                    style={{ width: "100%", height: "auto" }}
+                    src={Team13}
+                    alt="Team Member"
+                  />
+                  <div className="team__info">
+                    <h4 className="team__member-name-6">John Okyere</h4>
+                    <h5 className="team__member-role-6">Research And Education</h5>
+                  </div>
+              </div>
+            </SwiperSlide>
+
+            <SwiperSlide>
+              <div className="team__slide">
+                {/* <Link href="/team-details">
+                </Link> */}
+                  <Image
+                    priority
+                    style={{ width: "100%", height: "auto" }}
+                    src={Team14}
+                    alt="Team Member"
+                  />
+                  <div className="team__info">
+                    <h4 className="team__member-name-6">Anastasia Afariwa Andze</h4>
+                    <h5 className="team__member-role-6">Public Relations</h5>
+                  </div>
+              </div>
+            </SwiperSlide>
+
+            <SwiperSlide>
+              <div className="team__slide">
+                {/* <Link href="/team-details">
+                </Link> */}
+                  <Image
+                    priority
+                    style={{ width: "100%", height: "auto" }}
+                    src={Team15}
+                    alt="Team Member"
+                  />
+                  <div className="team__info">
+                    <h4 className="team__member-name-6">Elikplim Ronny Agorgor</h4>
+                    <h5 className="team__member-role-6">Community Manager</h5>
+                  </div>
+              </div>
+            </SwiperSlide>
+{/* 
+            <SwiperSlide>
+              <div className="team__slide">
+                <Link href="/team-details">
+                  <Image
+                    priority
+                    style={{ width: "100%", height: "auto" }}
+                    src={Team13}
+                    alt="Team Member"
+                  />
+                  <div className="team__info">
+                    <h4 className="team__member-name-6">Jassica Oliver</h4>
+                    <h5 className="team__member-role-6">Lead Designer</h5>
+                  </div>
+                </Link>
+              </div>
+            </SwiperSlide>
+
+            <SwiperSlide>
+              <div className="team__slide">
                 <Link href="/team-details">
                   <Image
                     priority
@@ -204,109 +307,7 @@ const Team1 = () => {
                   </div>
                 </Link>
               </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="team__slide">
-                <Link href="/team-details">
-                  <Image
-                    priority
-                    style={{ width: "100%", height: "auto" }}
-                    src={Team11}
-                    alt="Team Member"
-                  />
-                  <div className="team__info">
-                    <h4 className="team__member-name-6">Saymon D. Halk</h4>
-                    <h5 className="team__member-role-6">Founder & CEO</h5>
-                  </div>
-                </Link>
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="team__slide">
-                <Link href="/team-details">
-                  <Image
-                    priority
-                    style={{ width: "100%", height: "auto" }}
-                    src={Team12}
-                    alt="Team Member"
-                  />
-                  <div className="team__info">
-                    <h4 className="team__member-name-6">Jassica Oliver</h4>
-                    <h5 className="team__member-role-6">Researcher</h5>
-                  </div>
-                </Link>
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="team__slide">
-                <Link href="/team-details">
-                  <Image
-                    priority
-                    style={{ width: "100%", height: "auto" }}
-                    src={Team13}
-                    alt="Team Member"
-                  />
-                  <div className="team__info">
-                    <h4 className="team__member-name-6">Daniyel Adamson</h4>
-                    <h5 className="team__member-role-6">Digital Marketer</h5>
-                  </div>
-                </Link>
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="team__slide">
-                <Link href="/team-details">
-                  <Image
-                    priority
-                    style={{ width: "100%", height: "auto" }}
-                    src={Team14}
-                    alt="Team Member"
-                  />
-                  <div className="team__info">
-                    <h4 className="team__member-name-6">Hardiya Kethrine</h4>
-                    <h5 className="team__member-role-6">Lead Designer</h5>
-                  </div>
-                </Link>
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="team__slide">
-                <Link href="/team-details">
-                  <Image
-                    priority
-                    style={{ width: "100%", height: "auto" }}
-                    src={Team12}
-                    alt="Team Member"
-                  />
-                  <div className="team__info">
-                    <h4 className="team__member-name-6">Saymon D. Halk</h4>
-                    <h5 className="team__member-role-6">Researcher</h5>
-                  </div>
-                </Link>
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="team__slide">
-                <Link href="/team-details">
-                  <Image
-                    priority
-                    style={{ width: "100%", height: "auto" }}
-                    src={Team13}
-                    alt="Team Member"
-                  />
-                  <div className="team__info">
-                    <h4 className="team__member-name-6">Jassica Oliver</h4>
-                    <h5 className="team__member-role-6">Lead Designer</h5>
-                  </div>
-                </Link>
-              </div>
-            </SwiperSlide>
+            </SwiperSlide> */}
           </Swiper>
         </div>
 

@@ -73,8 +73,8 @@ const DigitalAgencyWorkflow = () => {
                     <div className="workflow__slide fade_left">
                       <h4 className="workflow__step">step 01</h4>
                       <h5 className="workflow__number">01</h5>
-                      <h6 className="workflow__title">Audience</h6>
-                      <p>Having these the marketplace to your business</p>
+                      <h6 className="workflow__title">Scope Requirements</h6>
+                      <p>Engage with clients to understand theoretically every aspect of the project parameters</p>
                     </div>
                   </SwiperSlide>
 
@@ -84,7 +84,7 @@ const DigitalAgencyWorkflow = () => {
                       <h5 className="workflow__number">02</h5>
                       <h6 className="workflow__title">Plan & Sketch</h6>
                       <p>
-                        Delicate and long-lasting with vitamins and nutritions
+                        Development and design a roadmap for the implementation of the project and sketch out the design and architecture of the project.
                       </p>
                     </div>
                   </SwiperSlide>
@@ -93,9 +93,9 @@ const DigitalAgencyWorkflow = () => {
                     <div className="workflow__slide fade_left">
                       <h4 className="workflow__step">step 03</h4>
                       <h5 className="workflow__number">03</h5>
-                      <h6 className="workflow__title">Customize</h6>
+                      <h6 className="workflow__title">Build And Develop</h6>
                       <p>
-                        Creating brand identities for the digital experiences
+                        We build and develop the project with the best practices and standards in the industry.
                       </p>
                     </div>
                   </SwiperSlide>
@@ -104,9 +104,9 @@ const DigitalAgencyWorkflow = () => {
                     <div className="workflow__slide fade_left">
                       <h4 className="workflow__step">step 04</h4>
                       <h5 className="workflow__number">04</h5>
-                      <h6 className="workflow__title">User Testing</h6>
+                      <h6 className="workflow__title">Project Testing And Delivery</h6>
                       <p>
-                        We look forward to engage with beyond the conventional
+                        We test the project for vulnerability and quality assurance before delivering it to the client with the best standards in the industry.
                       </p>
                     </div>
                   </SwiperSlide>

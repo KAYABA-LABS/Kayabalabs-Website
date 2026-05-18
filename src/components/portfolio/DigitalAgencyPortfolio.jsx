@@ -4,7 +4,7 @@ import { ScrollTrigger } from "@/plugins";
 import Link from "next/link";
 import Portfilio11 from "../../../public/assets/imgs/portfolio/1/tichema.jpg";
 import Portfilio12 from "../../../public/assets/imgs/portfolio/1/myrefund.jpg";
-import Portfilio13 from "../../../public/assets/imgs/portfolio/1/3.jpg";
+import Portfilio13 from "../../../public/assets/imgs/portfolio/1/sousuboxx.png";
 import Portfilio14 from "../../../public/assets/imgs/portfolio/1/4.jpg";
 import Image from "next/image";
 
@@ -91,7 +91,7 @@ const DigitalAgencyPortfolio = () => {
                 </Link>
                 <div className="portfolio__info">
                   <h3 className="portfolio__title">Tichema</h3>
-                  <p>02 May 2021</p>
+                  <p>23 August 2025</p>
                 </div>
               </div>
               <div className="portfolio__item">
@@ -105,7 +105,7 @@ const DigitalAgencyPortfolio = () => {
                 </Link>
                 <div className="portfolio__info">
                   <h3 className="portfolio__title">MyRefund</h3>
-                  <p>02 May 2021</p>
+                  <p>17 April 2023</p>
                 </div>
               </div>
               <div className="portfolio__item">
@@ -118,8 +118,8 @@ const DigitalAgencyPortfolio = () => {
                   />
                 </Link>
                 <div className="portfolio__info">
-                  <h3 className="portfolio__title">Arteck Lyon Conseil</h3>
-                  <p>02 May 2021</p>
+                  <h3 className="portfolio__title">Sousuboxx</h3>
+                  <p>07 January 2026</p>
                 </div>
               </div>
               {/* <div className="portfolio__item">
@@ -167,7 +167,7 @@ const DigitalAgencyPortfolio = () => {
             </div>
           </div>
 
-          <div className="row row_bottom">
+          {/* <div className="row row_bottom">
             <div className="col-xxl-12">
               <div
                 className="portfolio__btn btn_wrapper"
@@ -183,7 +183,7 @@ const DigitalAgencyPortfolio = () => {
                 </Link>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
     </>
